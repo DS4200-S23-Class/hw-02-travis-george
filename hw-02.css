@@ -16,3 +16,13 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 th, td {border-bottom: 1px solid #ddd;}
 
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+p {
+	text-align: left;
+	color: purple;
+}
+
