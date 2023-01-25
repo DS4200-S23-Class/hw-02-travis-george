@@ -1,0 +1,9 @@
+* {
+	font-family: Arial;
+}
+
+#info {text-align: center;}
+
+table {width: 100%;}
+
+tr:first-child {background-color: blue;}
