@@ -6,4 +6,9 @@
 
 table {width: 100%;}
 
-tr:first-child {background-color: blue;}
+th {background-color: cornflowerblue;}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th, td {border-bottom: 1px solid #ddd;}
+
