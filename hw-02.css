@@ -4,8 +4,8 @@
 
 #info {text-align: center;}
 
-h2, h3, h4, h5, h6, h7 {
-	font-size: 80%;
+h3, h4, h5, h6, h7 {
+	font-size: 13px;
 }
 
 table {width: 100%;}
