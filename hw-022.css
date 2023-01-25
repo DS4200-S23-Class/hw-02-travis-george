@@ -10,10 +10,7 @@ h3, h4, h5, h6, header {
 	font-size: 18px;
 }
 
-table {
-	width: 100%;
-	text-align: center;
-}
+table {width: 100%;}
 
 th {background-color: cornflowerblue;}
 
@@ -21,7 +18,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 th, td {border-bottom: 1px solid #ddd;}
 
-.flex-container2 {
+.flex-container {
 	display: flex;
 	justify-content: space-between;
 }
@@ -38,14 +35,3 @@ rect:hover {
 	fill: green;
 	pointer-events: all;
 }
-
-.flex-container{
-    display: flex;
-    justify-content: center;
-}
-
-p {
-	text-align: left;
-	color: purple;
-}
-
